@@ -2,13 +2,13 @@ import { links } from '../config/links'
 import { Gmail, Java, Python , Javascript, Typescript, Swift, Mysql, Realm, Mongodb, Html5, CssThree, ReactJs, Nodedotjs, Nextdotjs, Vuedotjs, Tailwindcss, Spring, Springboot, Stylus , Scikitlearn, Tensorflow, Docker, Git, Redis, Apachehadoop, Postman} from '@icons-pack/react-simple-icons'
 
 export const me = {
-    site: "https://www.anzifan.com",
-    name: '异次元de机智君💯',
-    bio: '💻 🎨 🎮 ⚡️',
+    site: "https://www.anjhon.top",
+    name: 'Anjhon',
+    bio: '但行好事，莫问前程',
     social: [
         ...links,
         {
-            url: 'mailto:541297173@qq.com',
+            url: 'mailto:anjhon@163.com',
             icon: Gmail,
             name: 'Email',
             fill: "fill-gray-400",
